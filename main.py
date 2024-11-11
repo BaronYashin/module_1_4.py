@@ -1,0 +1,8 @@
+MySting = input("Введите строку: ")
+print(MySting)
+print(len(MySting))
+print(MySting.upper())
+print(MySting.lower())
+print(MySting.replace(" ", ""))
+print(MySting[0])
+print(MySting[-1])
